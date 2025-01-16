@@ -1,1 +1,1 @@
-# go-api-template
+# Basic Go api Template
